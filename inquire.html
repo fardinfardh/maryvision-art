@@ -6,10 +6,11 @@
 <title>Purchase inquiry — Maryam Fardinfard</title>
 <meta name="description" content="Inquire about purchasing an original artwork by Maryam Fardinfard.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="grain" aria-hidden="true"></div>
 <header><div class="wrap nav">
   <a class="brand" href="index.html">Maryam <span>Fardinfard</span></a>
   <nav><ul>
@@ -21,48 +22,57 @@
 
 <section class="sect"><div class="wrap form-wrap">
   <h2>Purchase inquiry</h2>
-  <p class="intro" style="margin-top:14px">Each artwork carries a catalogue code (e.g.&nbsp;MV-001) shown beneath it in the gallery. Select the piece you&rsquo;re interested in and I&rsquo;ll reply personally at the email you provide.</p>
+  <p class="intro">Each painting carries a catalogue code (e.g.&nbsp;MV&#8209;001) shown beneath it in the gallery. Select the piece you&rsquo;re interested in and I&rsquo;ll reply personally at the email you provide.</p>
   <form id="inquiry-form" action="https://api.web3forms.com/submit" method="POST">
     <input type="hidden" name="access_key" value="437b2159-9c51-4e91-9952-4fad1a7b6b47">
     <input type="hidden" name="subject" value="New purchase inquiry — maryvision.art">
     <input type="hidden" name="from_name" value="maryvision.art gallery">
     <input type="checkbox" name="botcheck" class="hp" style="display:none" tabindex="-1" autocomplete="off">
     <div class="field">
-      <label for="artwork-code">Artwork code</label>
+      <label for="artwork-code">Artwork</label>
       <select id="artwork-code" name="artwork-code" required>
         <option value="" disabled selected>Select an artwork&hellip;</option>
-<option value="MV-001">MV-001 &mdash; Wildlife</option>
-<option value="MV-002">MV-002 &mdash; Wildlife</option>
-<option value="MV-003">MV-003 &mdash; Wildlife</option>
-<option value="MV-004">MV-004 &mdash; Wildlife</option>
-<option value="MV-005">MV-005 &mdash; Wildlife</option>
-<option value="MV-006">MV-006 &mdash; Wildlife</option>
-<option value="MV-007">MV-007 &mdash; Wildlife</option>
-<option value="MV-008">MV-008 &mdash; Wildlife</option>
-<option value="MV-009">MV-009 &mdash; Wildlife</option>
-<option value="MV-010">MV-010 &mdash; Wildlife</option>
-<option value="MV-011">MV-011 &mdash; Wildlife</option>
-<option value="MV-012">MV-012 &mdash; Wildlife</option>
-<option value="MV-013">MV-013 &mdash; Wildlife</option>
-<option value="MV-014">MV-014 &mdash; Wildlife</option>
-<option value="MV-015">MV-015 &mdash; Wildlife</option>
-<option value="MV-016">MV-016 &mdash; Nature</option>
-<option value="MV-017">MV-017 &mdash; Nature</option>
-<option value="MV-018">MV-018 &mdash; Nature</option>
-<option value="MV-019">MV-019 &mdash; Nature</option>
-<option value="MV-020">MV-020 &mdash; Nature</option>
-<option value="MV-021">MV-021 &mdash; Nature</option>
-<option value="MV-022">MV-022 &mdash; Portrait</option>
-<option value="MV-023">MV-023 &mdash; Portrait</option>
-<option value="MV-024">MV-024 &mdash; Portrait</option>
-<option value="MV-025">MV-025 &mdash; Portrait</option>
-<option value="MV-026">MV-026 &mdash; Portrait</option>
-<option value="MV-027">MV-027 &mdash; Portrait</option>
-<option value="MV-028">MV-028 &mdash; Portrait</option>
-<option value="MV-029">MV-029 &mdash; Still life</option>
-<option value="MV-030">MV-030 &mdash; Still life</option>
-<option value="MV-031">MV-031 &mdash; Still life</option>
-<option value="MV-032">MV-032 &mdash; Still life</option>
+        <option value="MV-001">MV-001 &mdash; Harvest of Harmony (Still Life)</option>
+        <option value="MV-002">MV-002 &mdash; A Moment of Vigilance (Birds)</option>
+        <option value="MV-003">MV-003 &mdash; Reflections of Purity (Birds)</option>
+        <option value="MV-004">MV-004 &mdash; A Taste of Nature (Birds)</option>
+        <option value="MV-005">MV-005 &mdash; Silent Majesty (Birds)</option>
+        <option value="MV-006">MV-006 &mdash; Autumn Reflections (Nature)</option>
+        <option value="MV-007">MV-007 &mdash; Serenity of the Leaves (Nature)</option>
+        <option value="MV-008">MV-008 &mdash; Dance of Leaves and Light (Nature)</option>
+        <option value="MV-009">MV-009 &mdash; Free Running (Horses)</option>
+        <option value="MV-010">MV-010 &mdash; Bond Beyond Words (Wildlife)</option>
+        <option value="MV-011">MV-011 &mdash; The Eternal Moment (Horses)</option>
+        <option value="MV-012">MV-012 &mdash; Tenderness in Nature (Wildlife)</option>
+        <option value="MV-013">MV-013 &mdash; Young Marmots (Wildlife)</option>
+        <option value="MV-014">MV-014 &mdash; Alert Serenity (Wildlife)</option>
+        <option value="MV-015">MV-015 &mdash; Forest Owl (Birds)</option>
+        <option value="MV-016">MV-016 &mdash; Tiger Reflection (Wildlife)</option>
+        <option value="MV-017">MV-017 &mdash; Euphoria in Motion (Horses)</option>
+        <option value="MV-018">MV-018 &mdash; Companions (Birds)</option>
+        <option value="MV-019">MV-019 &mdash; Untitled — details coming soon (Birds)</option>
+        <option value="MV-020">MV-020 &mdash; Whispers of Affection (Horses)</option>
+        <option value="MV-021">MV-021 &mdash; Wild Kittens (Wildlife)</option>
+        <option value="MV-022">MV-022 &mdash; Gaze of the Wild (Wildlife)</option>
+        <option value="MV-023">MV-023 &mdash; Instinct in Stillness (Wildlife)</option>
+        <option value="MV-024">MV-024 &mdash; A Gentle Bond (Portrait)</option>
+        <option value="MV-025">MV-025 &mdash; Watchful Calm (Wildlife)</option>
+        <option value="MV-026">MV-026 &mdash; Path of Quiet Fire (Nature)</option>
+        <option value="MV-027">MV-027 &mdash; Rhythms of Rural Life (Nature)</option>
+        <option value="MV-028">MV-028 &mdash; Forest Stream (Nature)</option>
+        <option value="MV-029">MV-029 &mdash; Where the Waters Sing (Nature)</option>
+        <option value="MV-030">MV-030 &mdash; A Legend Among the Stars (Portrait)</option>
+        <option value="MV-031">MV-031 &mdash; Curious Heart (Portrait)</option>
+        <option value="MV-032">MV-032 &mdash; A Gentle Embrace (Portrait)</option>
+        <option value="MV-033">MV-033 &mdash; Beacon of Leadership (Portrait)</option>
+        <option value="MV-034">MV-034 &mdash; The Unspoken Weight (Portrait)</option>
+        <option value="MV-035">MV-035 &mdash; Master of Elegance (Portrait)</option>
+        <option value="MV-036">MV-036 &mdash; Floral Portrait (Portrait)</option>
+        <option value="MV-037">MV-037 &mdash; Gentle Hands, Open Heart (Portrait)</option>
+        <option value="MV-038">MV-038 &mdash; Petals and Memories (Still Life)</option>
+        <option value="MV-039">MV-039 &mdash; Rose Elegance (Still Life)</option>
+        <option value="MV-040">MV-040 &mdash; Echoes of Childhood (Still Life)</option>
+        <option value="MV-041">MV-041 &mdash; Barbara (Portrait)</option>
         <option value="OTHER">Other / commission request</option>
       </select>
     </div>
@@ -73,6 +83,7 @@
     <p class="note">Sent securely &mdash; replies come from hello@maryvision.art</p>
   </form>
 </div></section>
+<div class="divider" aria-hidden="true"></div>
 <footer><div class="wrap foot">
   <span>&copy; 2026 Maryam Fardinfard &mdash; maryvision.art</span>
   <span><a href="https://www.instagram.com/mary.art.vision/" target="_blank" rel="noopener">IG @mary.art.vision</a> &nbsp;&middot;&nbsp; <a href="mailto:hello@maryvision.art">hello@maryvision.art</a></span>

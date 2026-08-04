@@ -1,258 +1,453 @@
 [
-{
-"code": "MV-001",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1430,
-"src": "wildlife_1.jpg"
-},
-{
-"code": "MV-002",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1110,
-"src": "wildlife_2.jpg"
-},
-{
-"code": "MV-003",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1213,
-"h": 1800,
-"src": "wildlife_3.jpg"
-},
-{
-"code": "MV-004",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1300,
-"h": 1800,
-"src": "wildlife_4.jpg"
-},
-{
-"code": "MV-005",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1259,
-"src": "wildlife_5.jpg"
-},
-{
-"code": "MV-006",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1248,
-"src": "wildlife_6.jpg"
-},
-{
-"code": "MV-007",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1245,
-"src": "wildlife_7.jpg"
-},
-{
-"code": "MV-008",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1208,
-"src": "wildlife_8.jpg"
-},
-{
-"code": "MV-009",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1679,
-"h": 1800,
-"src": "wildlife_9.jpg"
-},
-{
-"code": "MV-010",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1451,
-"src": "wildlife_10.jpg"
-},
-{
-"code": "MV-011",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1246,
-"h": 1800,
-"src": "wildlife_11.jpg"
-},
-{
-"code": "MV-012",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1335,
-"src": "wildlife_12.jpg"
-},
-{
-"code": "MV-013",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1263,
-"src": "wildlife_13.jpg"
-},
-{
-"code": "MV-014",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1591,
-"h": 1800,
-"src": "wildlife_14.jpg"
-},
-{
-"code": "MV-015",
-"cat": "wildlife",
-"label": "Wildlife",
-"w": 1800,
-"h": 1259,
-"src": "wildlife_15.jpg"
-},
-{
-"code": "MV-016",
-"cat": "nature",
-"label": "Nature",
-"w": 1440,
-"h": 1800,
-"src": "Nature_1.jpg"
-},
-{
-"code": "MV-017",
-"cat": "nature",
-"label": "Nature",
-"w": 1800,
-"h": 1228,
-"src": "Nature_2.jpg"
-},
-{
-"code": "MV-018",
-"cat": "nature",
-"label": "Nature",
-"w": 1800,
-"h": 1246,
-"src": "Nature_3.jpg"
-},
-{
-"code": "MV-019",
-"cat": "nature",
-"label": "Nature",
-"w": 1800,
-"h": 1290,
-"src": "Nature_4.jpg"
-},
-{
-"code": "MV-020",
-"cat": "nature",
-"label": "Nature",
-"w": 1800,
-"h": 1277,
-"src": "Nature_5.jpg"
-},
-{
-"code": "MV-021",
-"cat": "nature",
-"label": "Nature",
-"w": 1325,
-"h": 1800,
-"src": "Nature_6.jpg"
-},
-{
-"code": "MV-022",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1800,
-"h": 1585,
-"src": "Portrait_1.jpg"
-},
-{
-"code": "MV-023",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1413,
-"h": 1800,
-"src": "Portrait_2.jpg"
-},
-{
-"code": "MV-024",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1721,
-"h": 1800,
-"src": "Portrait_3.jpg"
-},
-{
-"code": "MV-025",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1800,
-"h": 1275,
-"src": "Portrait_4.jpg"
-},
-{
-"code": "MV-026",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1800,
-"h": 1358,
-"src": "Portrait_5.jpg"
-},
-{
-"code": "MV-027",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1367,
-"h": 1800,
-"src": "Portrait_6.jpg"
-},
-{
-"code": "MV-028",
-"cat": "portrait",
-"label": "Portrait",
-"w": 1362,
-"h": 1800,
-"src": "Portrait_7.jpg"
-},
-{
-"code": "MV-029",
-"cat": "still-life",
-"label": "Still life",
-"w": 1800,
-"h": 1171,
-"src": "stilllife_1.jpg"
-},
-{
-"code": "MV-030",
-"cat": "still-life",
-"label": "Still life",
-"w": 1268,
-"h": 1800,
-"src": "stilllife_2.jpg"
-},
-{
-"code": "MV-031",
-"cat": "still-life",
-"label": "Still life",
-"w": 1350,
-"h": 1800,
-"src": "stilllife_3.jpg"
-},
-{
-"code": "MV-032",
-"cat": "still-life",
-"label": "Still life",
-"w": 1703,
-"h": 1800,
-"src": "stilllife_4.jpg"
-}
+ {
+  "code": "MV-001",
+  "n": 1,
+  "title": "Harvest of Harmony",
+  "year": "2022",
+  "size": "70 × 45 cm",
+  "medium": "Soft Pastel on Mountboard",
+  "desc": "This still life captures a selection of seasonal produce — radishes, broad beans, oranges and watermelon — arranged with a woven basket, a ceramic jug and a bottle. The composition reflects rural traditions, highlighting natural textures and everyday objects, paying tribute to simplicity, sustenance and the quiet dignity of domestic life.",
+  "cat": "still-life",
+  "catLabel": "Still Life"
+ },
+ {
+  "code": "MV-002",
+  "n": 2,
+  "title": "A Moment of Vigilance",
+  "year": "2022",
+  "size": "67 × 50 cm",
+  "medium": "Pastel Pencil on Pastelmat Paper",
+  "desc": "The eagle turns its head, looking around carefully. Through the details of its feathers and eyes I tried to show its strong, alert nature — a quiet but powerful moment, revealing how the eagle is always watching everything around it.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-003",
+  "n": 3,
+  "title": "Reflections of Purity",
+  "year": "2021",
+  "size": "32 × 45 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "The sparrow leans toward the water and its reflection appears clear, like a mirror. I wanted to show the bird's gentle beauty and the peaceful feeling of nature — a scene quiet and simple, yet full of grace.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-004",
+  "n": 4,
+  "title": "A Taste of Nature",
+  "year": "2024",
+  "size": "42 × 51 cm",
+  "medium": "Pastel Pencil on Pastelmat Paper",
+  "desc": "This red-crested bird is focused on picking bright red berries among green leaves. The matching colours between its feathers and the berries highlight the harmony found in nature, capturing a natural moment of feeding and the bird's connection to its environment.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-005",
+  "n": 5,
+  "title": "Silent Majesty",
+  "year": "2021",
+  "size": "50 × 70 cm",
+  "medium": "Oil on Canvas",
+  "desc": "A bird of prey rests on a tree branch, quietly observing its surroundings. I focused on the details of the feathers, the sharp expression of the eye and the natural textures to emphasise strength, balance and presence. The soft background keeps attention on the subject and its calm, confident character.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-006",
+  "n": 6,
+  "title": "Autumn Reflections",
+  "year": "2024",
+  "size": "",
+  "medium": "Soft Pastel on Pastelmat Paper",
+  "desc": "Swans glide calmly through a quiet river in autumn. The fallen leaves on the water and the colourful trees in the background highlight the peaceful, seasonal change in nature.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-007",
+  "n": 7,
+  "title": "Serenity of the Leaves",
+  "year": "2022",
+  "size": "114 × 84 cm",
+  "medium": "Soft Pastel on Mountboard",
+  "desc": "A peaceful forest scene during autumn. Leaves cover the ground and float on the calm water; a small waterfall flows over the rocks, and the trees display warm yellow and brown tones. A quiet moment in nature that invites the viewer to slow down and enjoy the stillness.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-008",
+  "n": 8,
+  "title": "Dance of Leaves and Light",
+  "year": "2020",
+  "size": "50 × 70 cm",
+  "medium": "Soft Pastel on Canson",
+  "desc": "A serene moment in nature, where fallen autumn leaves float over a quiet river. The composition contrasts the vibrant reds, oranges and yellows of the foliage with the still, reflective surface of the water — a subtle transition, the landscape in quiet preparation for winter.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-009",
+  "n": 9,
+  "title": "Free Running",
+  "year": "2021",
+  "size": "204 × 123 cm",
+  "medium": "Oil on Canvas",
+  "desc": "A group of wild horses runs through shallow water, their powerful bodies in motion, splashing with each step. The painting captures their energy, strength and unity — a moment of freedom and vitality reflecting the raw beauty of animals in their natural element.",
+  "cat": "horses",
+  "catLabel": "Horses"
+ },
+ {
+  "code": "MV-010",
+  "n": 10,
+  "title": "Bond Beyond Words",
+  "year": "2020",
+  "size": "100 × 150 cm",
+  "medium": "Oil on Canvas",
+  "desc": "A snow leopard and her cub share a quiet moment of connection in their natural habitat. Through realistic details and delicate textures, the painting highlights the beauty of the endangered snow leopard and the strong bond between mother and cub — trust, protection and affection.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-011",
+  "n": 11,
+  "title": "The Eternal Moment",
+  "year": "2023",
+  "size": "100 × 150 cm",
+  "medium": "Oil on Canvas",
+  "desc": "I've seen many paintings of horses, but this pose truly stayed with me. The curve of the neck, the strong movement in each step and the flying sand come together to show both beauty and power — in this short moment, something deep, like energy and freedom, reminding me of nature's wild spirit.",
+  "cat": "horses",
+  "catLabel": "Horses"
+ },
+ {
+  "code": "MV-012",
+  "n": 12,
+  "title": "Tenderness in Nature",
+  "year": "2017",
+  "size": "100 × 70 cm",
+  "medium": "Soft Pastel on Mountboard",
+  "desc": "A celebration of emotional connection in the natural world, where affection transcends species and tenderness speaks louder than words. The animals are not only subjects of beauty but symbols of compassion, guardianship and unspoken love — a reminder that empathy and kindness exist throughout nature.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-013",
+  "n": 13,
+  "title": "Young Marmots",
+  "year": "2022",
+  "size": "68 × 48 cm",
+  "medium": "Soft Pastel on Pastelmat Paper",
+  "desc": "Five young marmots rest together on a fallen log, their calm and curious faces showing a gentle bond. This artwork captures a quiet moment of connection and innocence, highlighting the peaceful side of wildlife — a simple expression of togetherness in nature.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-014",
+  "n": 14,
+  "title": "Alert Serenity",
+  "year": "2023",
+  "size": "100 × 55 cm",
+  "medium": "Pastel Pencil on Pastelmat Paper",
+  "desc": "Resting atop a weathered branch, the leopard is still but never unaware — a fleeting moment of poised grace, where calm does not mean weakness and every breath carries the dignity of the wild. Their gaze speaks, even when their voice is still.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-015",
+  "n": 15,
+  "title": "Forest Owl",
+  "year": "2017",
+  "size": "100 × 70 cm",
+  "medium": "Soft Pastel on Mountboard",
+  "desc": "An owl stands quietly in a forest. A soft beam of light highlights its feathers and attentive gaze, while the detailed tree trunk and natural surroundings emphasise the beauty and balance of nature. Through realistic textures and careful use of light, the painting captures the calm presence of the owl in its habitat.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-016",
+  "n": 16,
+  "title": "Tiger Reflection",
+  "year": "2018",
+  "size": "130 × 100 cm",
+  "medium": "Oil on Canvas",
+  "desc": "The tiger walks calmly through the water; its golden body shines and reflects on the quiet surface. This moment shows the strong beauty of nature — powerful yet peaceful. The painting is about quiet strength and how wild animals hold a deep, calm power inside them, reminding us that true strength can also be gentle.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-017",
+  "n": 17,
+  "title": "Euphoria in Motion",
+  "year": "2015",
+  "size": "70 × 50 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "Two horses run side by side in the warm light of dawn, showing their strength, speed and unity. The painting captures the energy and movement of the horses while reflecting the connection between freedom and nature.",
+  "cat": "horses",
+  "catLabel": "Horses"
+ },
+ {
+  "code": "MV-018",
+  "n": 18,
+  "title": "Companions",
+  "year": "2023",
+  "size": "57 × 86 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "Two parrots sit side by side on a branch. The details in their feathers and the natural background draw attention to their peaceful presence; the way they are close together suggests a quiet connection — how animals can share space in calm and harmony.",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-019",
+  "n": 19,
+  "title": "Untitled — details coming soon",
+  "year": "",
+  "size": "",
+  "medium": "",
+  "desc": "",
+  "cat": "birds",
+  "catLabel": "Birds"
+ },
+ {
+  "code": "MV-020",
+  "n": 20,
+  "title": "Whispers of Affection",
+  "year": "2024",
+  "size": "70 × 70 cm",
+  "medium": "Soft Pastel on Pastelmat Paper",
+  "desc": "In this intimate moment, two magnificent horses share a gentle gesture of affection. Their finely detailed features and flowing manes radiate both beauty and tenderness. Through the soft, almost whispered touch between them, the scene captures a profound connection — a quiet testament to the grace, emotion and spirit that lives within the natural world.",
+  "cat": "horses",
+  "catLabel": "Horses"
+ },
+ {
+  "code": "MV-021",
+  "n": 21,
+  "title": "Wild Kittens",
+  "year": "2021",
+  "size": "45 × 50 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "Three young wild kittens rest on a tree branch. I focused on their expressions, fur textures and natural surroundings to capture their curiosity and the calm atmosphere of their habitat.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-022",
+  "n": 22,
+  "title": "Gaze of the Wild",
+  "year": "2016",
+  "size": "70 × 50 cm",
+  "medium": "Soft Pastel on Canson",
+  "desc": "A quiet moment of a tiger in its natural habitat. Through detailed textures and a focused expression, the painting reflects the balance between strength, calmness and the untamed spirit of the wild.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-023",
+  "n": 23,
+  "title": "Instinct in Stillness",
+  "year": "2016",
+  "size": "50 × 70 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "A tigress stops at the edge of a stream with her two cubs. The painting highlights the natural bond between mother and cubs, reflecting instinctive care, protection and the quiet beauty of wildlife.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-024",
+  "n": 24,
+  "title": "A Gentle Bond",
+  "year": "2015",
+  "size": "30 × 45 cm",
+  "medium": "Colored Pencil on Paper",
+  "desc": "A young girl shares a quiet moment with her horse. Through gentle gestures and realistic details, the work celebrates the bond between humans and animals — trust, kindness and companionship.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-025",
+  "n": 25,
+  "title": "Watchful Calm",
+  "year": "2022",
+  "size": "70 × 55 cm",
+  "medium": "Soft Pastel on Pastelmat Paper",
+  "desc": "This beautiful animal, with soft golden fur and dark markings, gently looks over its shoulder; its eyes reflect a rare moment of innocence and calm. Inspired by the contrast of strength and gentleness, I used pastel pencils to capture this quiet, emotional moment.",
+  "cat": "wildlife",
+  "catLabel": "Wildlife"
+ },
+ {
+  "code": "MV-026",
+  "n": 26,
+  "title": "Path of Quiet Fire",
+  "year": "2017",
+  "size": "70 × 50 cm",
+  "medium": "Soft Pastel on Fabriano Eller",
+  "desc": "Autumn reveals its rich colours along a winding forest path beneath golden leaves. This work reflects the beauty of seasonal change and the quiet atmosphere of nature, where stillness and light create a sense of harmony.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-027",
+  "n": 27,
+  "title": "Rhythms of Rural Life",
+  "year": "2018",
+  "size": "70 × 50 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "Set in a Georgian village, this painting captures the enduring spirit of rural life. A farmer rides his horse-drawn cart along a rugged path, surrounded by the quiet beauty of nature. Through detailed textures and a grounded atmosphere, the work reflects the resilience of rural life and the harmony between people, animals and the land.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-028",
+  "n": 28,
+  "title": "Forest Stream",
+  "year": "2017",
+  "size": "70 × 50 cm",
+  "medium": "Soft Pastel on Fabriano Eller",
+  "desc": "A peaceful forest scene: a calm stream flows between moss-covered stones under warm light. The work highlights the quiet balance of nature and the sense of calm we feel when we observe the natural world with attention and respect.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-029",
+  "n": 29,
+  "title": "Where the Waters Sing",
+  "year": "2016",
+  "size": "50 × 70 cm",
+  "medium": "Soft Pastel on Fabriano Eller",
+  "desc": "A mountain stream flows through an autumn forest. The painting highlights the contrast between the movement of water and the stillness of rocks, using detailed textures and composition to reflect the balance of nature.",
+  "cat": "nature",
+  "catLabel": "Nature"
+ },
+ {
+  "code": "MV-030",
+  "n": 30,
+  "title": "A Legend Among the Stars",
+  "year": "2023",
+  "size": "110 × 180 cm",
+  "medium": "Oil on Canvas",
+  "desc": "This portrait presents an iconic figure against a star-filled background. I focused on the details, lighting and composition to emphasise his presence and lasting influence.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-031",
+  "n": 31,
+  "title": "Curious Heart",
+  "year": "2018",
+  "size": "45 × 37 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "Amid the muted crowd, a child's curious gaze reaches beyond, full of wonder and discovery. This painting celebrates the innocence, curiosity and boundless spirit of childhood.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-032",
+  "n": 32,
+  "title": "A Gentle Embrace",
+  "year": "2025",
+  "size": "42 × 51 cm",
+  "medium": "Soft Pastel on Pastelmat",
+  "desc": "A child finds comfort in his grandfather's embrace. Their gentle expressions and close connection highlight the love, trust and sense of security shared between generations. Through realistic details and a simple composition, the painting celebrates the quiet strength of family bonds.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-033",
+  "n": 33,
+  "title": "Beacon of Leadership",
+  "year": "2018",
+  "size": "120 × 120 cm",
+  "medium": "Oil on Canvas",
+  "desc": "This portrait pays homage to His Highness Sheikh Mohammed bin Rashid Al Maktoum, a visionary leader whose commitment to progress, compassion and innovation has inspired the world. Through his expression, the painting reflects the strength of his leadership, his wisdom and the humanity that defines his legacy.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-034",
+  "n": 34,
+  "title": "The Unspoken Weight",
+  "year": "2025",
+  "size": "70 × 50 cm",
+  "medium": "Soft Pastel on Pastelmat Paper",
+  "desc": "Two Armenian sisters stand close together. The older sister looks protective; the younger reaches out to her for comfort. They are poor, but you can feel their strong love and care for each other. I wanted to show how deep the bond between sisters can be — full of love, strength and hope, even when life is hard — and the beauty of their culture and the kindness in their hearts.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-035",
+  "n": 35,
+  "title": "Master of Elegance",
+  "year": "2016",
+  "size": "31 × 50 cm",
+  "medium": "Pastel Pencil on Canson",
+  "desc": "This portrait honours Mahmoud Farshchian, a visionary artist who redefined Persian art. Captured in a moment of reflection, it celebrates his wisdom, creativity and lasting artistic legacy.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-036",
+  "n": 36,
+  "title": "Floral Portrait",
+  "year": "2015",
+  "size": "32 × 48 cm",
+  "medium": "Colored Pencil on Paper",
+  "desc": "A quiet moment of elegance rendered through soft lighting, delicate details and a calm expression. The flower in her hair adds a natural touch, highlighting beauty, simplicity and grace.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-037",
+  "n": 37,
+  "title": "Gentle Hands, Open Heart",
+  "year": "2016",
+  "size": "",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "In a peaceful rural setting, two young girls care for newborn goats with kindness and affection. Through their gentle gestures and traditional surroundings, the painting celebrates compassion, simplicity and the close connection between people, animals and nature.",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ },
+ {
+  "code": "MV-038",
+  "n": 38,
+  "title": "Petals and Memories",
+  "year": "2016",
+  "size": "21 × 32 cm",
+  "medium": "Pastel Pencil on Canson",
+  "desc": "Red roses and delicate white blossoms are arranged in a crystal vase, celebrating the beauty of flowers and nature. Through detailed textures and luminous colour, this still life reflects elegance, renewal and the timeless charm of floral composition.",
+  "cat": "still-life",
+  "catLabel": "Still Life"
+ },
+ {
+  "code": "MV-039",
+  "n": 39,
+  "title": "Rose Elegance",
+  "year": "2024",
+  "size": "30 × 52 cm",
+  "medium": "Pastel Pencil on Pastelmat Paper",
+  "desc": "Bathed in soft shades of pink, violet, blue and crimson, these two roses radiate freshness and vitality. Delicate droplets resting on their petals evoke the pure fragrance of water and blossom. Beside them, two tender buds quietly promise growth and renewal — nature's timeless cycle of hope and beauty.",
+  "cat": "still-life",
+  "catLabel": "Still Life"
+ },
+ {
+  "code": "MV-040",
+  "n": 40,
+  "title": "Echoes of Childhood",
+  "year": "2017",
+  "size": "38 × 40 cm",
+  "medium": "Colored Pencil on Fabriano Eller Paper",
+  "desc": "A quiet, simple moment from the past. Old bottles, wooden crates and dried plants create a warm atmosphere inspired by memories of my grandmother's life and her close connection to nature. Each object represents care, hard work and a deep bond with the land.",
+  "cat": "still-life",
+  "catLabel": "Still Life"
+ },
+ {
+  "code": "MV-041",
+  "n": 41,
+  "title": "Barbara",
+  "year": "2026",
+  "size": "",
+  "medium": "Oil on Canvas",
+  "desc": "",
+  "cat": "portrait",
+  "catLabel": "Portrait"
+ }
 ]
